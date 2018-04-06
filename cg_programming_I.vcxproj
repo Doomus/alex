@@ -72,9 +72,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="stubs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="stubs.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BasicFragmentShader.fragmentshader" />
